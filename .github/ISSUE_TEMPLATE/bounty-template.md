@@ -24,6 +24,13 @@ What needs to be done / demonstrated to consider the bounty finished.
 
 Important dates / milestones. At least the end date for completion.
 
+**Bounty process**
+
+- One team will be selected and approved to work on the project.
+- Upon completion, the bounty will be awarded to the chosen team, if the approving criteria is met.
+- If the approving criteria is not met, another team will be selected and approved. Consequentially the deadline will be extended.
+- If no project matches all the approving criteria, no bounty will be awarded.
+
 **References**
 
 References that might be helpful in completing the bounty.
