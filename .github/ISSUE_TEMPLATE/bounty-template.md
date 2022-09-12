@@ -20,9 +20,22 @@ List the task to be done to achieve the goal(s).
 
 What needs to be done / demonstrated to consider the bounty finished.
 
+E.g:
+- A new, open-source repository is created and link to repository posted under the issue
+- Well documented instructions on how to install and use the app, included in the README of the repository
+- Use open source license Apache 2.0
+- ...
+
 **Timeline**
 
 Important dates / milestones. At least the end date for completion.
+
+E.g:
+This bounty is estimated to take X.
+
+Deadline: X calendar weeks after approval.
+
+Compensation: In BZZ tokens in amount of X DAI at the date of payment (as of the price of BZZ / DAI on the day of the payout as determined by Fair Data Society).
 
 **Bounty process**
 
@@ -34,3 +47,7 @@ Important dates / milestones. At least the end date for completion.
 **References**
 
 References that might be helpful in completing the bounty.
+
+Use the [Fair Data Society Discord](https://discord.com/invite/KrVTmahcUA) for more information and support.
+
+Mind the [Fair Data Society Principles](https://principles.fairdatasociety.org/) in your tasks.
